@@ -1,35 +1,65 @@
 <div align="center">
 
-<img src="https://github.com/Xiao-no-love.png" width="120" style="border-radius:50%" />
+<img src="https://github.com/Xiao-no-love.png" width="110" style="border-radius:50%" />
 
-# 👋 Hi, I'm Xiao-no-love
+# Xiao-no-love
 
-**自动化工具 & AI Agent 爱好者，喜欢折腾一切能自动跑起来的东西。**
+*把重复劳动交给代码，把时间还给自己。*
 
 </div>
 
 ---
 
-### 🧠 关于我
+### 🧭 关于我
 
-- 🔭 目前在研究 **AI Agent** 与 **Web 自动化**
-- 🌱 正在学习 `Python` · `Playwright` · `LLM 应用`
-- 💬 喜欢把重复劳动交给代码，把时间还给自己
+写代码的初衷很简单——**看不惯手动重复**。
+于是慢慢从"写点脚本偷懒"，走到了"让 AI 替我操作电脑"。
 
-### 🛠️ 技术栈
+- 🔭 现在在做：[**DeepHelp**](https://github.com/Xiao-no-love/DeepHelp) —— 一个能真正读写文件、执行命令的本地 AI 助手
+- 🌱 在学：AI Agent · 浏览器自动化 · LLM 工程化
+- 🎯 原则：先让它跑起来，再让它跑得漂亮
+
+### 🛠️ 手感还行的
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 📊 GitHub 统计
+### 🚀 精选项目
+
+<table>
+<tr>
+<td width="100%">
+
+**[DeepHelp](https://github.com/Xiao-no-love/DeepHelp)** &nbsp;·&nbsp; `Python` `pywebview` `Playwright`
+
+> 一个具备本地操作能力的 AI 助手：用自然语言驱动，真实地读文件、改代码、跑命令。
+> 前端 Web 技术栈做 GUI，后端把 LLM 的意图翻译成可执行动作。
+
+</td>
+</tr>
+</table>
+
+### 📈 一些不太好意思贴的数据
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xiao-no-love&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-no-love&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Xiao-no-love&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-no-love&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🐍 它自己会动
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiao-no-love/Xiao-no-love/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiao-no-love/Xiao-no-love/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Xiao-no-love/Xiao-no-love/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -37,6 +67,6 @@
 
 <div align="center">
 
-*"把能自动化的都自动化掉。"*
+<sub>能自动化的，绝不手动。</sub>
 
 </div>

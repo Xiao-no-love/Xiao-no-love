@@ -46,8 +46,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Xiao-no-love&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-no-love&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Xiao-no-love&theme=tokyonight&hide_border=true&locale=zh&date_format=Y.n.j" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/stars/Xiao-no-love/DeepHelp?style=for-the-badge&label=DeepHelp%20Stars&color=yellow" />
+<img src="https://img.shields.io/github/followers/Xiao-no-love?style=for-the-badge&label=Followers&color=blue" />
+<img src="https://img.shields.io/github/last-commit/Xiao-no-love/DeepHelp?style=for-the-badge&label=Last%20Commit&color=green" />
 
 </div>
 
